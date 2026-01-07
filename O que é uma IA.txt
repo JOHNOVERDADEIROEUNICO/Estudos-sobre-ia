@@ -1,0 +1,6 @@
+A inteligência artificial (IA) é um ramo da ciência da computação que busca criar sistemas que imitam ou simulam a inteligência humana.
+
+Quando surgiu? Desde a década de 50, a IA evoluiu significativamente e agora abrange uma séire de técnicas e tcnologias, incluindo aprendizado de máquina, processamento de linguagem natural e visão computacional.
+
+GPS, apps de musica, mecanismos de busca, todos já utilizam IA a muito tempo, bem antes de um chatGPT da vida.
+
