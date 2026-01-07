@@ -1,0 +1,11 @@
+1.Primeiro de tudo é uma IA opera através do aprendizado a partir de dados. 
+
+Então assim como nós aprendemos com a experiência, os sistemas de IA aprendem com os dados que processam.;
+
+2.Ou seja a IA é um software que recebe dados reconhece padrões e aprende com eles salvando aquela informção, isso é o que chamamos de Aprendizado de Máquina(Machine Learning).;
+
+3.Um exemplo: Um sistema de IA pode aprender a indentificar imagens de gatos depois de analisar milhares de imagens de gatos. 
+
+Nós humanos (seres conscientes) conseguimos indentificar um gato facilmente depois de ter visto ele pela primeira vez, já a IA não, se ela ver um gato de frente ela não vai saber como é um gato em movimneto, de costas, de lado, de outra cor. Pra cada situação dessa ela precisa ver varias e varias vezes até indentificar os padrões e salvar em seu banco de dados assim gerando o que é um gato e mesmo assim a IA ainda não sabe o que é um gato, poís a IA não é um ser, é só um software que sabe indentificar padrões de algo e salvar em seu banco de dados.;
+
+4.Esses processos obviamente são validados depois para ver se a IA aprendeu corretamente os padrões.;
