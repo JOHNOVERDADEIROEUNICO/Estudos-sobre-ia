@@ -1,0 +1,3 @@
+Em português Aprendizado de Máquina, é uma subárea da inteligência artificial, onde o foco é desenvolver sistemas capazes de aprender a partir de dados.
+
+Em vez de srem explicitamente progamados para realizar uma tarefa, esses sistemas são treinados usando grandes conjuntos de dados e algoritmos que lhes permitem melhorar seu desempenho com base na experiência.

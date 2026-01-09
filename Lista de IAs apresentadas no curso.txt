@@ -1,3 +1,5 @@
 1.ClaudeIA: Um chatbot assim como GPT, GEMINI e etc..;
 
+2.Geradora de imagens e videos: freepik;
+
 É bom ter mais de uma opção, afinal se esgotar uma IA caso esteja usando o plano gratuito, vamos a outra.
